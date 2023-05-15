@@ -27,5 +27,8 @@
     <ClCompile Include="konstruktor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="mbrStatikfunc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
