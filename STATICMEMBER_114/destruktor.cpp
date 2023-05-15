@@ -11,3 +11,10 @@ public :
 	void cetakdata();
 	void isiData();
 };
+//Definisi member functon
+angka::angka(int i) { //Counstructor
+	panjang = i;
+	arr = new int[i];
+	isiData();
+
+}
